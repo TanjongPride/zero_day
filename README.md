@@ -1,4 +1,4 @@
- ** ALX Engineering Course**
+ **ALX Engineering Course**
 This is the ALX Engineering Course, where i will learn valuable skills in software Engineering, including:
 
 * Programming languages such as _c_, _Python_, and _Javascript_
